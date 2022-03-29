@@ -1,0 +1,17 @@
+# Authentication via AWS SSO
+#[default]
+#sso_start_url  = 
+#sso_region     = 
+#sso_account_id = 
+#sso_role_name  = 
+#region         = 
+#output         = json
+#[profile workload]
+#role_arn       = 
+#source_profile = default
+#region         = 
+
+# Default authentication with access key and secret access
+#[default]
+#aws_access_key_id     = 
+#aws_secret_access_key =
