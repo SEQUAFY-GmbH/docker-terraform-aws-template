@@ -1,0 +1,5 @@
+# Local .vscode directories
+**/.vscode/*
+
+# Mac DS Store file
+.DS_Store
